@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">30 Days Cooking</string>
+    <string name="food1">Spaghetti Carbonara</string>
+    <string name="food2">Sushi</string>
+    <string name="food3">Chicken Tikka Masala</string>
+    <string name="food4">Pad Thai</string>
+    <string name="food5">Borscht</string>
+    <string name="receipt1">Spaghetti, eggs, pancetta, Parmesan cheese, black pepper</string>
+    <string name="receipt2">Salmon Sashimi, Japanese Rice, Shoyu</string>
+    <string name="receipt3">Chicken, yogurt, tomatoes, onions, garlic, ginger, spices.</string>
+    <string name="receipt4">Rice noodles, shrimp, tofu, peanuts, bean sprouts, lime.</string>
+    <string name="receipt5">Beets, cabbage, potatoes, carrots, onions, beef.</string>
+    <string name="profile1">Sashfir</string>
+    <string name="profile2">Syifa Hadju</string>
+    <string name="profile3">Pevita Pearce</string>
+    <string name="profile4">Daenerys Targaryen</string>
+    <string name="profile5">Anselma Putri</string>
+    <string name="upload1">20 min ago</string>
+    <string name="upload2">30 min ago</string>
+    <string name="upload3">1 hour ago</string>
+    <string name="upload4">1 day ago</string>
+    <string name="upload5">2 week ago</string>
+    <string name="Receipt">Receipt</string>
+</resources>
